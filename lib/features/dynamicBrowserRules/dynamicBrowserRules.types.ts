@@ -1,0 +1,1 @@
+export type DynamicRule = globalThis.Browser.declarativeNetRequest.Rule;
