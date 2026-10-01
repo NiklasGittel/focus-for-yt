@@ -1,7 +1,6 @@
-# WXT + Vue 3
+# Focus for YouTube
 
-This template should help get you started developing with Vue 3 in WXT.
+This is browser extension can help you to waste less time on YouTube, by blocking all of the attention grabing features like Shorts and recommendations. You can also whitelist channels you find inspiring or educative so you don't have to miss out on the good stuff. It's built with WXT + Vue 3, so it's compatible with most browsers.
 
-## Recommended IDE Setup
+As of now, I've only uploaded it to the [chrome web store](https://chromewebstore.google.com/detail/focus-for-youtube/lgfllnmfakkapodncdfdmeckjobjjeom)
 
-- [VS Code](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar).
